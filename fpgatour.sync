@@ -1,7 +1,7 @@
 name = FPGA-tour
 author = goblin-bunker
 url = https://raw.githubusercontent.com/kerobaros/launchsync-fpgatour/refs/heads/main/fpgatour.sync
-updated = 2025-05-16 02:50
+updated = 2025-05-16 02:52
 
 [#001 Torneko no Daiboken - Fushigi no Dungeon (SFC)]
 system = SNES
@@ -49,6 +49,7 @@ match = Marvelous
 [#009 Nightmare in the Dark (NG)]
 system = NeoGeo
 match = Nightmare in the Dark (nitd)
+match = nitd
 
 
 [#010 Front Mission - Gun Hazard (SFC)]
@@ -92,6 +93,7 @@ match = Alcahest
 [#017 Neo Turf Masters (NG)]
 system = NeoGeo
 match = Neo Turf Masters
+match = turfmast
 
 
 [#018 Umihara Kawase (SFC)]
@@ -174,6 +176,7 @@ match = Ihatovo Monogatari
 [#033 Twinkle Star Sprites (NG)]
 system = NeoGeo
 match = Twinkle Star Sprites
+match = twinspri
 
 
 [#034 ESP Ra.De. (ARC)]
@@ -403,6 +406,7 @@ match = Aerobiz Supersonic
 [#077 Metal Slug 5 (NG)]
 system = NeoGeo
 match = Metal Slug 5
+match = mslug5
 
 
 [#078 Galaga '88 (PCE)]
@@ -516,6 +520,7 @@ match = Sled Storm
 [#099 Magical Drop III (NG)]
 system = NeoGeo
 match = Magical Drop III
+match = magdrop3
 
 
 [#100 Donkey Kong (GB)]
@@ -765,7 +770,8 @@ match = Blade (USA, Europe)
 
 [#147 The King of Fighters '97 (NG)]
 system = NeoGeo
-match = King of Fighters '97, The (kof97)
+match = King of Fighters '97, The
+match = kof97
 
 
 [#148 Pac-Attack (Namco Anthology Vol 2) (PSX)]
