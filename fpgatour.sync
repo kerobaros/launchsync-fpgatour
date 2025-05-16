@@ -1,0 +1,814 @@
+name = FPGA-tour
+author = goblin-bunker
+url =
+updated = 2025-05-16 02:00
+
+[#001 Torneko no Daiboken - Fushigi no Dungeon (SFC)]
+system = SNES
+match = Torneco no Daibouken - Fushigi no Dungeon (J) T+Eng v0.99 Magic Destiny
+match = Torneko no Daibouken - Fushigi no Dungeon (Japan) (Rev 1)
+match = Torneko
+
+[#002 Kuru Kuru Kururin (GBA)]
+system = GBA
+match = Kurukuru Kururin (Europe)
+
+
+[#003 Zombies Ate My Neighbors (SFC)]
+system = SNES
+match = Zombies Ate My Neighbors (USA)
+
+
+[#004 Judgement Silversword (WSC)]
+system = WonderSwanColor
+match = Judgement Silversword (World)
+
+
+[#005 Klonoa - Door to Phantomile (PSX)]
+system = PSX
+match = Klonoa
+
+
+[#006 Dragon Ball - Advanced Adventure (GBA)]
+system = GBA
+match = Dragon Ball - Advanced Adventure (USA)
+
+
+[#007 Wario Land II (GBC)]
+system = GameboyColor
+match = Wario Land II
+
+
+[#008 Marvelous - Mohitotsu no Takarajima (SFC)]
+system = SNES
+match = Marvelous - Another Treasure Island - English (J) T+Eng v1.07 DackR
+match = Marvelous - Mouhitotsu no Takara-jima (Japan)
+match = Marvelous
+
+
+[#009 Nightmare in the Dark (NG)]
+system = NeoGeo
+match = Nightmare in the Dark (nitd)
+
+
+[#010 Front Mission - Gun Hazard (SFC)]
+system = SNES
+match = Front Mission Series - Gun Hazard (J) T+Eng v1.01 AGTP
+match = Front Mission Series - Gun Hazard (Japan)
+match = Gun Hazard
+
+
+[#011 LSD - Dream Emulator (PSX)]
+system = PSX
+match = LSD - Dream Emulator (Japan) [T-En by Mr. Nobody & ArcaneAria v1]
+
+
+[#012 Ninja Five-0 (GBA)]
+system = GBA
+match = Ninja Five-0
+
+
+[#013 Ghost Sweeper Mikami - Joreishi no Nice Body (SFC)]
+system = SNES
+match = GS Mikami - Joreishi wa Nice Body (Japan)
+
+
+[#014 Kickle Cubicle (FC)]
+system = NES
+match = Kickle Cubicle (USA)
+
+
+[#015 Tail Concerto (PSX)]
+system = PSX
+match = Tail Concerto
+
+
+[#016 Alcahest (SFC)]
+system = SNES
+match = Alcahest (J) T+Eng v1.0beta FH, Passwords v1.0 KingMike
+match = Alcahest
+
+
+[#017 Neo Turf Masters (NG)]
+system = NeoGeo
+match = Neo Turf Masters
+
+
+[#018 Umihara Kawase (SFC)]
+system = SNES
+match = Umihara Kawase (J) T+Eng v0.90 satsu
+match = Umihara Kawase
+
+[#019 Colin McRae Rally (PSX)]
+system = PSX
+match = Colin McRae Rally (USA)
+
+
+[#020 R-Type Delta (PSX)]
+system = PSX
+match = R-Type Delta
+
+
+[#021 Shodai Nekketsu Kouha Kunio-kun (SFC)]
+system = SNES
+match = Shodai Nekketsu Kouha Kunio-kun (J) T+Eng v1.00 AGTP
+match = Shodai Nekketsu Kouha Kunio-kun
+
+[#022 Ristar (MD)]
+system = Genesis
+match = Ristar
+
+
+[#023 Shooter - Starfighter Sanvein (PSX)]
+system = PSX
+match = Sanvein
+
+
+[#024 Adventures of Lolo 3 (FC)]
+system = NES
+match = Lolo 3 (USA)
+
+
+[#025 Avatar - The Last Airbender (GBA)]
+system = GBA
+match = Avatar - The Last Airbender (USA)
+
+
+[#026 Puchi Carat (PSX)]
+system = PSX
+match = Puchi Carat
+
+
+[#027 Nushi Tsuri Adventure - Kite no Bouken (GBC)]
+system = GameboyColor
+match = Nushi Tsuri Adventure - Kite no Bouken
+
+
+[#028 Parasite Eve (PSX)]
+system = PSX
+match = Parasite Eve
+
+
+[#029 Drill Dozer (GBA)]
+system = GBA
+match = Drill Dozer (USA)
+
+
+[#030 GG Aleste II (GG)]
+system = GameGear
+match = GG Aleste II
+
+
+[#031 Metal Gear - Ghost Babel (GBC)]
+system = GameboyColor
+match = Metal Gear Solid (USA)
+
+
+[#032 Ihatovo Monogatari (SFC)]
+system = SNES
+match = Ihatov Monogatari (J) T+Eng v2 DDSTranslation
+match = Ihatovo Monogatari
+
+
+[#033 Twinkle Star Sprites (NG)]
+system = NeoGeo
+match = Twinkle Star Sprites
+
+
+[#034 ESP Ra.De. (ARC)]
+system = Arcade
+match = ESP Ra.De. (Japan)
+
+
+[#035 Omega Boost (PSX)]
+system = PSX
+match = Omega Boost
+
+
+[#036 Strider 2 (PSX)]
+system = PSX
+match = Strider 2
+
+
+[#037 Jumping Flash! 2 (PSX)]
+system = PSX
+match = Jumping Flash! 2
+
+
+[#038 Super Genjin 2 (SFC)]
+system = SNES
+match = Super Bonk 2 - Super Genjin 2 (J) T+Eng v1.00 Gaijin
+match = Super Genjin 2
+
+
+[#039 Gimmick! (FC)]
+system = NES
+match = Gimmick! (Japan)
+
+
+[#040 Monsters, Inc. Scream Team (PSX)]
+system = PSX
+match = Monsters, Inc. - Scream Team
+
+
+[#041 Pyokotan no Daimeiro (FC)]
+system = NES
+match = Pyokotan's Big Maze
+match = Pyokotan
+
+
+[#042 Magical Chase (PCE)]
+system = TurboGrafx16
+match = Magical Chase
+
+
+[#043 Silhouette Mirage (PSX)]
+system = PSX
+match = Silhouette Mirage
+
+
+[#044 Ys Book I & II (PCECD)]
+system = TurboGrafx16CD
+match = Ys Book I
+
+
+[#045 Moon Crystal (FC)]
+system = NES
+match = Moon Crystal
+
+
+[#046 The Firemen (SFC)]
+system = SNES
+match = Firemen NTSC 60Hz (Hack) v1 bigboo
+match = Firemen
+
+
+[#047 Silent Hill (PSX)]
+system = PSX
+match = Silent Hill
+
+
+[#048 DK - King of Swing (GBA)]
+system = GBA
+match = DK - King of Swing (USA)
+
+
+[#049 Monster World IV (MD)]
+system = MegaDrive
+match = Monster World IV (USA
+match = Monster World IV
+
+
+[#050 Chibi Maruko-chan - Mezase! Minami no Island!! (SFC)]
+system = SNES
+match = Chibi Maruko-chan - Mezase! Minami no Island!!
+
+
+[#051 Knights of the Round (SFC)]
+system = SNES
+match = Knights of the Round (USA)
+
+
+[#052 Noobow (GB)]
+system = Gameboy
+match = Noobow (J)T+Eng v1 Stardust Crusaders
+match = Noobow
+
+
+[#053 Skyblazer (SFC)]
+system = SNES
+match = Skyblazer (USA)
+
+
+[#054 Vanark (PSX)]
+system = PSX
+match = Vanark
+
+
+[#055 Balloon Fight (FC)]
+system = NES
+match = Balloon Fight (USA)
+
+
+[#056 SD The Great Battle - Aratanaru Chousen (SFC)]
+system = SNES
+match = SD The Great Battle - Aratanaru Chousen (J) T+Eng v1 Aeon Genesis
+match = SD The Great Battle - Aratanaru Chousen
+
+
+[#057 Shadowgate (FC)]
+system = NES
+match = Shadowgate (USA)
+
+
+[#058 Astro Boy - Omega Factor (GBA)]
+system = GBA
+match = Astro Boy - Omega Factor (USA)
+
+
+[#059 Skeleton Krew (MD)]
+system = Genesis
+match = Skeleton Krew (USA)
+
+
+[#060 The Adventure of Little Ralph (PSX)]
+system = PSX
+match = Little Ralph
+
+
+[#061 MDK (PSX)]
+system = PSX
+match = MDK (USA)
+
+
+[#062 Bishi Bashi Special (PSX)]
+system = PSX
+match = Bishi Bashi Special (Europe)
+match = Bishi Bashi Special (Japan)
+
+
+[#063 1 On 1 (PSX)]
+system = PSX
+match = 1 on 1 (Japan)
+
+
+[#064 Sonic Pinball Party (GBA)]
+system = GBA
+match = Sonic Pinball Party (USA) (En,Ja,Fr,De,Es,It)
+
+
+[#065 Teenage Mutant Ninja Turtles - The HyperStone Heist (MD)]
+system = Genesis
+match = Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA)
+
+
+[#066 Kaze no Notam (PSX)]
+system = PSX
+match = Kaze no Notam
+
+
+[#067 Kaeru no Tami ni Kane wa Naru (GB)]
+system = Gameboy
+match = Kaeru no Tame ni Kane wa Naru (english translation)
+match = Kaeru no Tame ni Kane wa Naru
+
+
+[#068 Private Eye Dol (PCE-CD)]
+system = TurboGrafx16CD
+match = Private Eye dol
+
+
+[#069 Batman Forever (GB)]
+system = Gameboy
+match = Batman Forever
+
+
+[#070 Battle Hunter (PSX)]
+system = PSX
+match = Battle Hunter
+
+
+[#071 Sanrio World Smash Ball! (SFC)]
+system = SNES
+match = Sanrio World Smash Ball! (J) T+Eng v1.00 Suicidal
+match = Sanrio World Smash Ball
+
+
+[#072 Twin Goddesses (PSX)]
+system = PSX
+match = Twin Goddesses
+
+
+[#073 Heroes Against Demons (SMS)]
+system = MasterSystem
+match = Heroes Against Demons
+
+
+[#074 GG Aleste 3 (GG)]
+system = GameGear
+match = GG Aleste 3
+
+
+[#075 Touki Denshou Angel Eyes (PSX)]
+system = PSX
+match = Angel Eyes
+
+
+[#076 Aerobiz Supersonic (SFC)]
+system = SNES
+match = Aerobiz Supersonic
+
+
+[#077 Metal Slug 5 (NG)]
+system = NeoGeo
+match = Metal Slug 5
+
+
+[#078 Galaga '88 (PCE)]
+system = TurboGrafx16
+match = Galaga '88
+match = Galaga '90
+
+
+[#079 Magical Tetris Challenge (PSX)]
+system = PSX
+match = Magical Tetris Challenge
+
+
+[#080 Armed Police Batrider (ARC)]
+system = Arcade
+match = Armed Police Batrider (Japan, B Version)
+
+
+[#081 Defenders of Oasis (GG)]
+system = GameGear
+match = Defenders of Oasis
+
+
+[#082 Slap Happy Rhythm Busters (PSX)]
+system = PSX
+match = Slap Happy Rhythm Busters
+
+
+[#083 Power Rangers - Lightspeed Rescue (GBC)]
+system = GameboyColor
+match = Power Rangers - Lightspeed Rescue
+
+
+[#084 Chikyuu Kaihou Gun ZAS (GB)]
+system = Gameboy
+match = Chikyuu Kaihou Gun ZAS
+
+
+[#085 Defender (ARC)]
+system = Arcade
+match = Defender (Red Label)
+
+
+[#086 The Legend of Valkyrie (PCE)]
+system = TurboGrafx16
+match = Valkyrie no Densetsu (J) T+Eng v1 shawnji, cabbage
+match = Valkyrie
+
+
+[#087 Koudelka (PSX)]
+system = PSX
+match = Koudelka
+
+
+[#088 Fray in Magical Adventure CD - Xak Gaiden (PCE-CD)]
+system = TurboGrafx16CD
+match = Fray
+
+
+[#089 Gimmick! (FC)]
+system = NES
+match = Gimmick
+
+
+[#090 Ape Escape (PSX)]
+system = PSX
+match = Ape Escape
+
+
+[#091 iS - internal section (PSX)]
+system = PSX
+match = internal section
+
+
+[#092 Vampire Savior - The Lord of Vampire (ARC)]
+system = Arcade
+match = Vampire Savior The Lord of Vampire (Euro 970519)
+
+
+[#093 Vib-Ribbon (PSX)]
+system = PSX
+match = Vib-Ribbon
+
+
+[#094 Portal (Amiga)]
+system = Amiga500
+match = Portal
+
+
+[#095 Dragon Warrior VII (PSX)]
+system = PSX
+match = Dragon Warrior VII
+match = Dragon Quest VII
+
+
+[#096 Dr. Slump (PSX)]
+system = PSX
+match = Slump
+
+
+[#097 Kolibri (32X)]
+system = Sega32X
+match = Kolibri
+
+
+[#098 Sled Storm (PSX)]
+system = PSX
+match = Sled Storm
+
+
+[#099 Magical Drop III (NG)]
+system = NeoGeo
+match = Magical Drop III
+
+
+[#100 Donkey Kong (GB)]
+system = Gameboy
+match = Donkey Kong (Japan, USA) (En) (SGB Enhanced)
+
+
+[#101 Tiny Tank (PSX)]
+system = PSX
+match = Tiny Tank
+
+
+[#102 Laplace no Ma (SFC)]
+system = SNES
+match = Laplace no Ma (J) T+Eng v2.00 AGTP
+match = Laplace no Ma
+
+
+[#103 Jumping Flash! (PSX)]
+system = PSX
+match = Jumping Flash!
+
+
+[#104 Jingle Cats (PSX)]
+system = PSX
+match = Jingle Cats
+
+
+[#105 RayStorm (PSX)]
+system = PSX
+match = RayStorm
+
+
+[#106 Kyuukyoku Tiger (PSX)]
+system = PSX
+match = Toaplan Shooting Battle 1
+
+[#107 Gyakuten Saiban (GBA)]
+system = GBA
+match = Comeback Courtroom
+match = Gyakuten Saiban
+
+
+[#108 Namco Museum Vol. 5 (PSX)]
+system = PSX
+match = Namco Museum Vol. 5
+
+
+[#109 Mega Man Battle Network 5 - Team Protoman (GBA)]
+system = GBA
+match = Megaman - Battle Network 5 - Team Protoman
+
+
+[#110 Cadash (PCE)]
+system = TurboGrafx16
+match = Cadash
+
+
+[#111 Jackal (FC)]
+system = NES
+match = Jackal
+
+
+[#112 ClayFighter 63 1-3 (N64)]
+system = Nintendo64
+match = Clay Fighter 63 1-3 (USA)
+
+
+[#113 Dimahoo (ARC)]
+system = Arcade
+match = Dimahoo (Euro 000121)
+
+
+[#114 Austin Powers Pinball (PSX)]
+system = PSX
+match= Austin Powers Pinball
+
+
+[#115 Super Pang (ARC)]
+system = Arcade
+match = Super Pang (World 900914)
+
+
+[#116 Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo (SFC)]
+system = SNES
+match = Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo (J) T+Eng v1.0 Demiforce
+match = Famicom Tantei Club Part II
+
+
+[#117 Brave Fencer Musashi (PSX)]
+system = PSX
+match = Brave Fencer Musashi
+
+
+[#118 Bucky O'Hare (FC)]
+system = NES
+match = Bucky O'Hare
+
+
+[#119 Crystalis (FC)]
+system = NES
+match = Crystalis
+
+
+[#120 The Tower of Druaga (FC)]
+system = NES
+match = Tower of Druaga
+match = Druaga
+
+
+[#120 The Tower of Druaga (PCE)]
+system = TurboGrafx16
+match = Tower of Druaga - Druaga no Tou (J) T+Eng v1.1 Procyon Lotor
+match = Druaga
+
+
+[#121 Scurge - Hive (GBA)]
+system = GBA
+match = Scurge - Hive (USA)
+
+
+[#122 Mr. Ghost (MSX)]
+system = MSX
+match = Mr. Ghost
+
+
+[#123 Tony Hawk's Pro Skater 3 (N64)]
+system = Nintendo64
+match = Tony Hawk's Pro Skater 3
+
+
+[#124 James Bond 007 (GB)]
+system = Gameboy
+match = James Bond 007
+
+
+[#125 Soul Blazer (SFC)]
+system = SNES
+match = Soul Blazer (USA)
+
+
+[#126 Star Gladiator Episode 1 - Final Crusade (PSX)]
+system = PSX
+match = Star Gladiator
+
+
+[#127 Brain Lord (SFC)]
+system = SNES
+match = Brain Lord (USA)
+
+
+[#128 The Legend of Zelda - Oracle of Seasons (GBC)]
+system = GameboyColor
+match = Oracle of Seasons
+
+
+[#129 The Legend of Zelda - Oracle of Ages (GBC)]
+system = GameboyColor
+match = Oracle of Ages
+
+
+[#130 Keitai Denjuu Telefang - Speed Version (GBC)]
+system = GameboyColor
+match = Keitai Denjuu Telefang - Speed Version
+
+
+[#131 Intelligent Qube (PSX)]
+system = PSX
+match = Intelligent Qube
+
+
+[#132 Alien Syndrome (ARC)]
+system = Arcade
+match = Alien Syndrome (set 4, System 16B, unprotected)
+
+
+[#133 Terranigma (SFC)]
+system = SNES
+match = Terranigma Font+NTSC (Hack) 8x16 Font v1 MopoZ, v1 60Hz Great Hierophant
+match = Terranigma
+
+
+[#134 Macross 7 - Ginga no Heart o Furuwa Sero!! (GBC)]
+system = GameboyColor
+match = Macross 7
+
+
+[#135 Gex 3 - Deep Cover Gecko (PSX)]
+system = PSX
+match = Gex 3 - Deep Cover Gecko
+
+
+[#136 Trap Gunner - Countdown to Oblivion (PSX)]
+system = PSX
+match = Trap Gunner
+
+
+[#137 Sengoku Blade - Sengoku Ace Episode II (SAT)]
+system = Saturn
+match = Sengoku Blade
+
+
+[#138 Street Fighter EX2 Plus (PSX)]
+system = PSX
+match = Street Fighter EX2 Plus
+
+
+[#139 Bionic Commando (FC)]
+system = NES
+match = Bionic Commando (USA)
+
+
+[#140 The Legend of Oasis (SAT)]
+system = Saturn
+match = Legend of Oasis
+
+
+[#141 Guilty Gear Petit 2 (WSC)]
+system = WonderSwanColor
+match = Guilty Gear Petit 2
+
+
+[#142 Aliens - Thanatos Encounter (GBC)]
+system = GameboyColor
+match = Aliens - Thanatos Encounter
+
+
+[#143 Panzer Dragoon Saga (SAT)]
+system = Saturn
+match = Panzer Dragoon Saga
+
+
+[#144 Scooby-Doo! Classic Creep Capers (GBC)]
+system = GameboyColor
+match = Scooby-Doo! - Classic Creep Capers
+
+
+[#145 Summer Carnival '92 - Recca (FC)]
+system = NES
+match = Summer Carnival '92 - Recca
+
+
+[#146 Blade (GBC)]
+system = GameboyColor
+match = Blade (USA, Europe)
+
+
+[#147 The King of Fighters '97 (NG)]
+system = NeoGeo
+match = King of Fighters '97, The (kof97)
+
+
+[#148 Pac-Attack (Namco Anthology Vol 2) (PSX)]
+system = PSX
+match = Namco Anthology 2
+
+
+[#149 Romancia - Dragon Slayer Jr (FC)]
+system = NES
+match = Romancia
+
+
+[#150 Liquid Kids (PCE)]
+system = TurboGrafx16
+match = Mizubaku Daibouken
+
+
+[#150 Liquid Kids (SAT)]
+system = Saturn
+match = Mizubaku Daibouken
+
+
+[#151 X-Men - Children of the Atom (ARC)]
+system = Arcade
+match = X-Men Children of the Atom (Euro 950331)
+
+
+[#152 Rhythm Tengoku (GBA)]
+system = GBA
+match = Rhythm Heaven
+match = Rhythm Tengoku
+
+
+[#153 Sakura Taisen (SAT)]
+system = Saturn
+match = Sakura Wars (Japan)
+
+
+[#154 Dicing Knight (WSC)]
+system = WonderSwanColor
+match = Dicing Knight Period
+match = Dicing Knight
+
+
+[#155 Undercover Cops (ARC)]
+system = Arcade
+match = Undercover Cops (World)
