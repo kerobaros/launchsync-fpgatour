@@ -1,7 +1,7 @@
 name = FPGA-tour
 author = goblin-bunker
 url = https://raw.githubusercontent.com/kerobaros/launchsync-fpgatour/refs/heads/main/fpgatour.sync
-updated = 2025-05-16 02:52
+updated = 2025-05-16 02:55
 
 [#001 Torneko no Daiboken - Fushigi no Dungeon (SFC)]
 system = SNES
@@ -808,6 +808,7 @@ match = Rhythm Tengoku
 [#153 Sakura Taisen (SAT)]
 system = Saturn
 match = Sakura Wars (Japan)
+match = Sakura Wars
 
 
 [#154 Dicing Knight (WSC)]
