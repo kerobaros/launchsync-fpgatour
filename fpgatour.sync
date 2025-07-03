@@ -1,7 +1,7 @@
 name = FPGA-tour
 author = goblin-bunker
 url = https://raw.githubusercontent.com/kerobaros/launchsync-fpgatour/refs/heads/main/fpgatour.sync
-updated = 2025-05-16 02:55
+updated = 2025-07-03 02:30
 
 [#001 Torneko no Daiboken - Fushigi no Dungeon (SFC)]
 system = SNES
@@ -820,3 +820,38 @@ match = Dicing Knight
 [#155 Undercover Cops (ARC)]
 system = Arcade
 match = Undercover Cops (World)
+
+
+[#156 Gekibo - Gekisha Boy (PCE)
+system = TurboGrafx16
+match = Gekisha Boy
+
+
+[#157 Kingdom Hearts - Chain of Memories (GBA)]
+system = GBA
+match = Kingdom Hearts
+
+
+[#158 Dogz (GBA)]
+system = GBA
+match = Dogz (USA)
+
+
+[#159 GunPey (WS)]
+system = WonderSwanColor
+match = GunPey
+
+
+[#160 Front Mission 3 (PSX)]
+system = PSX
+match = Front Mission 3
+
+
+[#161 The Sword of Hope (GB)]
+system = Gameboy
+match = Sword of Hope, The
+
+
+[#162 Star Parodier (PCECD)]
+system = TurboGrafx16CD
+match = Star Parodier
