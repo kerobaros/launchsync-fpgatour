@@ -1,7 +1,7 @@
 name = FPGA-tour
 author = goblin-bunker
 url = https://raw.githubusercontent.com/kerobaros/launchsync-fpgatour/refs/heads/main/fpgatour.sync
-updated = 2025-07-03 22:00
+updated = 2025-07-03 22:22
 
 [#001 Torneko no Daiboken - Fushigi no Dungeon (SFC)]
 system = SNES
@@ -526,6 +526,11 @@ match = magdrop3
 [#100 Donkey Kong (GB)]
 system = Gameboy
 match = Donkey Kong (Japan, USA) (En) (SGB Enhanced)
+
+
+[#100 Donkey Kong (SGB)]
+system = SuperGameboy
+match = Donkey Kong (World) (Rev 1) (SGB Enhanced)
 
 
 [#101 Tiny Tank (PSX)]
