@@ -1,7 +1,7 @@
 name = FPGA-tour
 author = goblin-bunker
 url = https://raw.githubusercontent.com/kerobaros/launchsync-fpgatour/refs/heads/main/fpgatour.sync
-updated = 2025-07-03 02:45
+updated = 2025-07-03 22:00
 
 [#001 Torneko no Daiboken - Fushigi no Dungeon (SFC)]
 system = SNES
@@ -576,6 +576,7 @@ match = Megaman - Battle Network 5 - Team Protoman
 
 [#110 Cadash (PCE)]
 system = TurboGrafx16
+match = Cadash (USA)
 match = Cadash
 
 
